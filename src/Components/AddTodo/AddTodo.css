@@ -1,0 +1,7 @@
+.add_todo {
+  display: flex;
+  background-color: #444;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
